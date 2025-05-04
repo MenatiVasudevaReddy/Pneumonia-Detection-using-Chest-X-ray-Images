@@ -1,4 +1,4 @@
-# Pneumonia-Detection-using-Chest-X-ray-Images
+# Pneumonia Infection Classification via Chest Radiography
 Pneumonia is a serious respiratory illness that inflames the lung tissue, leading to symptoms like persistent cough, chest discomfort, elevated temperature, and labored breathing. This project aims to create an automated tool for identifying and categorizing pneumonia using medical imaging.
 
 ![Symptoms of Pneumonia](https://user-images.githubusercontent.com/65142149/215302250-841fde71-e182-4ffd-8036-625a3a717de7.png)
